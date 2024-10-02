@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'História',
-    'O que é uma função?',
+    'O que foi a revolução francesa?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
