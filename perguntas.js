@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
+    'Quais são os principais fatores que influenciam o clima de uma região?',
     'A capital da França é Paris'
 )
 
