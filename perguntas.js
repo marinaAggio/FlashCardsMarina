@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Quais são os principais fatores que influenciam o clima de uma região?',
-    'A capital da França é Paris'
+    'Os principais fatores que influenciam o clima incluem latitude, altitude, proximidade de corpos de água, topografia, correntes oceânicas e vegetação.'
 )
 
 criaCartao(
