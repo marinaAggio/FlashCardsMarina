@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Química',
     'O que é uma reação de neutralização?',
-    'Oi em ingles é HI (RAI)'
+    'Uma reação de neutralização ocorre quando um ácido e uma base reagem entre si, resultando na formação de água e sal.'
 )
