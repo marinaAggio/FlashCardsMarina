@@ -1,7 +1,7 @@
 criaCartao(
     'biologia',
     'O que é a fotossíntese?',
-    'O Python é uma linguagem de programação'
+    'A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias convertem luz solar em energia química utilizando dióxido de carbono e água'
 )
 
 criaCartao(
