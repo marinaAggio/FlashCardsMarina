@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Química',
-    'Como se diz oi em Inglês?',
+    'O que é uma reação de neutralização?',
     'Oi em ingles é HI (RAI)'
 )
