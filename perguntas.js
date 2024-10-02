@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'História',
     'O que foi a revolução francesa?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'A revolução Francesa (19789-1799) foi um movimento que demorou a monarquia e estabeleceu a república, promovendo ideias de liberdade e igualdade e inspirando outras revoluções.'
 )
 
 criaCartao(
